@@ -1,0 +1,2 @@
+# floredex-app
+Floredex Frontend
